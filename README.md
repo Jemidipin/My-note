@@ -7,4 +7,9 @@
     it is a source code editor and IDE(integrated development environment).
     it support for development operations like task running,debugging....
   * extensions in vs code
-    to add or improve the features to the program
+     to add or improve the features to the program
+     eg: black formatter(extensions > search black formatter > install)
+## overleaf
+  * it is an online LATEX tool
+  * collaborative writting and publishing tool
+  * it have collection of template 
