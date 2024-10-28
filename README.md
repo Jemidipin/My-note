@@ -1,4 +1,6 @@
 # My-note
 ## google workspace
-*google docs
-    
+* Google docs
+* google sheet
+* google slide
+      
