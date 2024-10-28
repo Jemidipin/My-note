@@ -1,4 +1,5 @@
 # My-note
+## typeclub
 ## google workspace
 * Google docs
 * google sheet
@@ -13,3 +14,12 @@
   * it is an online LATEX tool
   * collaborative writting and publishing tool
   * it have collection of template 
+  * to using the templates we have to create a resume
+## GITHUB
+  * to create the project
+  * share works
+### Creating a project
+  * go to "your profile" > click new project >select the type of template you want to use
+creation of hyperlink
+  * to use []
+    
