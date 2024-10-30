@@ -24,3 +24,11 @@
  
       * clustering  
       * association
+# PYTHON
+  * object orinted programming language
+  * interpreted language
+  * high level language
+## python libraries
+  * NumPY9numerical)
+  * Pandas(character,table..)
+  * SciKit( machine learning)
