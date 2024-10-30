@@ -13,4 +13,11 @@
       With guidence
 ### unsupervised learning
       without guidence
-      
+ In supervised learning that have two task
+      * classsification
+           assign numerical values
+      * regression
+           it have finite ,discreate values 
+ In unsupervised learning that have two task
+      * clustering  
+      * association
