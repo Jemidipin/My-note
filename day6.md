@@ -5,4 +5,11 @@
 ## probability distribution
    it is a statistical function that describes all the possibile values and take within a given range.
 ### types
- - 
+ - normal distributed or guassian distributed
+    In naormal distribution the mean value "0" and standard deviation is "1".
+## sampling
+    Sampling is a process in statistical analysis in which researchers take a predetermined number of observations from a larger population.
+ -- sample 
+ - population
+## sampling distribution
+# hypothesis
