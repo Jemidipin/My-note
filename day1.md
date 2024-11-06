@@ -1,4 +1,3 @@
-# My-note
 ## typeclub
 ## google workspace
 * Google docs
