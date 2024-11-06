@@ -17,7 +17,5 @@
 ## GITHUB
   * to create the project
   * share works
-### Creating a project
-  * go to "your profile" > click new project >select the type of template you want to use
-  * creation of hyperlink to use []
+
     
