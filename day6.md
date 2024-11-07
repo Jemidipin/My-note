@@ -29,3 +29,5 @@
    There is no difference between two or more groups.
 ## Alternative hypothesis
    There is a difference between two or more groups.
+# C-Test
+     
