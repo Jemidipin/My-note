@@ -12,13 +12,20 @@
  - sample
    It is the specific group that you will collect data from.
  - population
- -  it represent the entire data.
-## sampling distribution
+ -  It represent the entire data.
+## Sampling distribution
    The mean value of a samples called sampling distribution.
-### significant level
-  - significant level of alpha=0.01
-  - default significant level of alpha=0.05
-# central limit theorem
+### Significant level
+  - Significant level of alpha=0.01
+  - Default significant level of alpha=0.05
+# Central limit theorem
   The distribution of sample means approximates a normal distribution as the sample size gets larger, regardless of the population's distribution.
-# hypothesis
-   
+# Hypothesis
+  - Hypothesis is an assumption about an association.
+  - Hypothesis is made at the very beginning and the goal is to either reject or not reject the hypothesis.
+  - Test the hypothesis based on your data.
+  - The analysis of the data is done with hypothesis test.
+## Null hypothesis
+   There is no difference between two or more groups.
+## Alternative hypothesis
+   There is a difference between two or more groups.
