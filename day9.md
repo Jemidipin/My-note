@@ -10,11 +10,11 @@
 Eg:flip a fair coin the sample space is{H,T}
 ### dependent & indepemdent events
    dependent events are affected by the outcome of another event, while independent events are not.
-   dependent                                            
+#### dependent                                            
    in coin toss                                        
    P(2/even)=P(2/2,4,6)
    P=2/3
-   independent
+#### independent
    tossing a coin two times
 ### joint probability
    joint probability is the likelihood of two events occurring together.
