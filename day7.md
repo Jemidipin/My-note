@@ -29,5 +29,7 @@
 
 ![image](https://github.com/user-attachments/assets/9d691709-2058-4999-87b4-8db27bb9a496)
 
+### Z-score Formula
+   #### Z = (x - μ) / (σ / √n)
+## degrees of freedom
 
- 
