@@ -30,9 +30,12 @@
 ## Alternative hypothesis
    There is a difference between two or more groups.
 # Z-Test
-  
-![image](https://github.com/user-attachments/assets/e6e1389b-af81-44ff-af87-aa838dd41694)
-
+  Is a statistical test to determine whether two population means are different or to compare one mean to a hypothesized value when the variances are known and the 
+  sample size is large.
+  ![image](https://github.com/user-attachments/assets/e6e1389b-af81-44ff-af87-aa838dd41694)
+# T-Test
+  is an inferential statistic used to determine if there is a significant difference between the means of two groups and how they are related.
+  ![image](https://github.com/user-attachments/assets/b849c710-efb4-44c5-bc92-e5b460afc04b)
 
 
 
