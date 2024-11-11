@@ -31,6 +31,7 @@
    There is a difference between two or more groups.
 # Z-Test
   
+![image](https://github.com/user-attachments/assets/e6e1389b-af81-44ff-af87-aa838dd41694)
 
 
 
