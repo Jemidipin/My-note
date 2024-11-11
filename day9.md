@@ -9,7 +9,11 @@
    A sample space is the set of all possible outcomes of a random experiment, while an event is a subset of the sample space.
 Eg:flip a fair coin the sample space is{H,T}
 ### dependent & indepemdent events
-   dependent events are affected by the outcome of another event, while independent events are not
+   dependent events are affected by the outcome of another event, while independent events are not.
+   dependent                                            independent
+   in coin toss                                         tossing a coin two times
+   P(2/even)=P(2/2,4,6)
+   P=2/3
 ### joint probability
    joint probability is the likelihood of two events occurring together.
 ### marginal probability
@@ -17,4 +21,15 @@ Eg:flip a fair coin the sample space is{H,T}
 ### conditional probability 
 # Bayes theorem
    The conditional probability of an event A, given the occurrence of another event B, is equal to the product of the event of B, given A and the probability of A divided by the probability of event B.ie,P(A) and P(B) are the probabilities of events A and B.
- ### combinotorics:## binomial distribution  
+ ### combinotorics: 
+ ## binomial distribution  
+### essence of information theory
+* quantifying uncertanity
+* entropy
+* entropy curve calculation
+* cross entropy
+#### sample space
+  set of all possible outcomes
+#### Event
+  any one of the possible outcomes
+## P(Event)=no.of favourable outcomes/total no.of outcomes
