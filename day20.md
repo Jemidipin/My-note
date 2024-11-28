@@ -47,9 +47,9 @@
 ## 2.FEATURE ENGINEERING
 * Feature Orthogonality\
    When features are orthogonal, they provide unique information to a model, which can improve its predictive power.
-  -> Cosine Similarity\
-    High cosine similarity : Indicates that the features are highly correlated, which can lead to multicollinearity issues.
-    Low cosine similarity : Indicates that the features are less correlated, suggesting that they provide unique information.
+     -> Cosine Similarity\
+          High cosine similarity : Indicates that the features are highly correlated, which can lead to multicollinearity issues.
+          Low cosine similarity : Indicates that the features are less correlated, suggesting that they provide unique information.
 * Feature Colinearity\
    Feature colinearity occurs when two or more predictor (independent) variables in a statistical model are highly correlated.
 * Feature Slicing\
