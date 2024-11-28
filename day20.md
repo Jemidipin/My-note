@@ -2,7 +2,7 @@
 ## 1.DATA VISHUALIZATION
 ### Types of input variables
 * Numerical variables
-  - Continuous
+  - Continuous\
      Can take on any value within a specific range.
       eg:age,weight.temperature,etc...
   - discrete
