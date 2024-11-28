@@ -20,8 +20,7 @@
 ### Vishualization
 #### Libraries
 ##### 1.MatPlotLib
-  - Figures
-Create a figure using plt.figure().
+  - Figures:Create a figure using plt.figure().
   - Axis labels
 Add labels to the x and y axes using plt.xlabel() and plt.ylabel().
 customize the font size, font weight, and other properties of the labels.
