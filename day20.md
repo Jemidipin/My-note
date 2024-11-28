@@ -50,6 +50,6 @@
 * Feature Slicing
 * Indicator Variable
 * Feature Binning
-* Mathematical Transforms
-		* Logarithms
-		* FFT & STFT 
+* Mathematical Transforms\
+   * Logarithms\
+   * FFT & STFT 
