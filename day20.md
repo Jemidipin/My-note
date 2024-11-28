@@ -55,8 +55,11 @@
 * Feature Slicing\
    Feature slicing involves creating new features by splitting an existing feature into multiple parts.
 * Indicator Variable\
-   
-* Feature Binning
-* Mathematical Transforms 
+   It used to convert categorical features into numerical ones.
+* Feature Binning\
+   Feature binning involves grouping numerical values into discrete bins or intervals. 
+* Mathematical Transforms\
    * Logarithms
-   * FFT & STFT 
+      Compress the range of values.
+   * FFT & STFT
+      Convert time-domain signals into frequency-domain representations. 
