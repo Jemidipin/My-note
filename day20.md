@@ -16,5 +16,5 @@
 #### Regression
 * Predicts continuous numerical values.
 * Output variable is continuous.
-> Labels and features
-  
+#### Labels(predicted variables) and features(input variables)
+     
