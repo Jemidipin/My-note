@@ -25,21 +25,31 @@
   - Sub figures : Create multiple subplots within a single figure using plt.subplot().
   - Ticks : customize the appearance of ticks using plt.xticks() and plt.yticks()
 #### Types of plot
-* Line plot
-  import matplotlib.pyplot as plt
-  x=[0,1,2,3,4,5]
-  y=[4,1,8,22,18,8]
-  plt.plot(x,y)
-  plt.xlabel("days")
-  plt.ylabel("counts")
-  plt.show()
-* Bar Charts
-* Pie Charts
-* Histogram
-* CDF plot
-* KDE plot
-* Scatter plot with color
-* Heatmaps
-* Box plots
-
+* Line plot\
+    Showing trends over time.
+* Bar Charts\
+    Comparing categorical data.
+* Pie Charts\
+    Showing the composition of a whole.
+* Histogram\
+    Understanding the distribution of numerical data.
+* CDF plot\
+    It represents the cumulative distribution function.
+* KDE plot\
+    It estimating the probability density function.
+* Scatter plot with color\
+     Identifying relationships between two numerical variables.
+* Heatmaps\
+    Visualizing data across two dimensions.
+* Box plots\
+    Comparing distributions of data.
 ##### 2.Seaborn
+## 2.FEATURE ENGINEERING
+*Feature Orthogonality - Cosine Similarity
+* Feature Colinearity
+* Feature Slicing
+* Indicator Variable
+* Feature Binning
+* Mathematical Transforms
+		* Logarithms
+		* FFT & STFT 
