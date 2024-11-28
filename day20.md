@@ -45,16 +45,16 @@
     Comparing distributions of data.
 ##### 2.Seaborn
 ## 2.FEATURE ENGINEERING
-* Feature Orthogonality
+* Feature Orthogonality\
    When features are orthogonal, they provide unique information to a model, which can improve its predictive power.
-  -> Cosine Similarity
+  -> Cosine Similarity\
     High cosine similarity : Indicates that the features are highly correlated, which can lead to multicollinearity issues.
     Low cosine similarity : Indicates that the features are less correlated, suggesting that they provide unique information.
-* Feature Colinearity
+* Feature Colinearity\
    Feature colinearity occurs when two or more predictor (independent) variables in a statistical model are highly correlated.
-* Feature Slicing
+* Feature Slicing\
    Feature slicing involves creating new features by splitting an existing feature into multiple parts.
-* Indicator Variable
+* Indicator Variable\
 * Feature Binning
 * Mathematical Transforms 
    * Logarithms
