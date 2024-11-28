@@ -45,7 +45,7 @@
     Comparing distributions of data.
 ##### 2.Seaborn
 ## 2.FEATURE ENGINEERING
-*Feature Orthogonality - Cosine Similarity
+* Feature Orthogonality - Cosine Similarity
 * Feature Colinearity
 * Feature Slicing
 * Indicator Variable
