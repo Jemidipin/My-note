@@ -26,7 +26,13 @@
   - Ticks : customize the appearance of ticks using plt.xticks() and plt.yticks()
 #### Types of plot
 * Line plot
-  
+  import matplotlib.pyplot as plt
+  x=[0,1,2,3,4,5]
+  y=[4,1,8,22,18,8]
+  plt.plot(x,y)
+  plt.xlabel("days")
+  plt.ylabel("counts")
+  plt.show()
 * Bar Charts
 * Pie Charts
 * Histogram
