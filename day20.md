@@ -20,14 +20,10 @@
 ### Vishualization
 #### Libraries
 ##### 1.MatPlotLib
-  - Figures:Create a figure using plt.figure().
-  - Axis labels
-Add labels to the x and y axes using plt.xlabel() and plt.ylabel().
-customize the font size, font weight, and other properties of the labels.
-  - Sub figures
-     Create multiple subplots within a single figure using plt.subplot().
-  - Ticks
-    customize the appearance of ticks using plt.xticks() and plt.yticks()
+  - Figures : Create a figure using plt.figure().
+  - Axis labels : Add labels to the x and y axes using plt.xlabel() and plt.ylabel(),customize the font size, font weight, and other properties of the labels.
+  - Sub figures : Create multiple subplots within a single figure using plt.subplot().
+  - Ticks : customize the appearance of ticks using plt.xticks() and plt.yticks()
 #### Types of plot
 * Line plot
   
