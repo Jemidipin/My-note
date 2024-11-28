@@ -59,7 +59,7 @@
 * Feature Binning\
    Feature binning involves grouping numerical values into discrete bins or intervals. 
 * Mathematical Transforms\
-   * Logarithms
+   * Logarithms : 
       Compress the range of values.
-   * FFT & STFT
+   * FFT & STFT : 
       Convert time-domain signals into frequency-domain representations. 
