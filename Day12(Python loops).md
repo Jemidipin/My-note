@@ -1,6 +1,6 @@
 # Python loops
 ## For loop 
-  for iterator_var in sequence:
+  for iterator_var in sequence:/n
     statements(s)
 ## While loop
   while expression:
