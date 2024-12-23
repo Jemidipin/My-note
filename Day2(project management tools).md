@@ -18,5 +18,5 @@
    - Feedback 
   * Iterative model
 ## Scrum in software development   
-    Scrum is a management framework that teams use to self-organize tasks and work towards a common goal
+  Scrum is a management framework that teams use to self-organize tasks and work towards a common goal
  
