@@ -1,7 +1,7 @@
 # Python loops
 ## For loop 
-  for iterator_var in sequence:/n
-    statements(s)
+  #### for iterator_var in sequence:
+  ####  statements(s)
 ## While loop
   while expression:
     statement(s)
