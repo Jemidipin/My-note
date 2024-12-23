@@ -1,36 +1,36 @@
 # Python Datatypes
 Data types define the kind of data that variables can hold in Python. 
 ## Types of datas
- #### *  Numeric types
+ ### *  Numeric types
    ##### - Int(eg:2,6,4)
    ##### - Float(eg:2.4,6.00,1.5)
    ##### - Complex(eg:2 + 3j)
    
- #### *  Sequence types
+ ### *  Sequence types
    ##### - String(eg:"Hello","Python")
    ##### - List(eg:["hi",5,7.8]
    ##### - Tuple(eg:(1,3,"hi")
    
- #### *  Mapping types
+ ### *  Mapping types
    ##### - Dictionary-dict(eg:{name:"jemi",age:22}
    
- #### *  set types
+ ### *  set types
    ##### - Set(eg:{1,2,3}
    ##### - Frozenset(eg:frozenset([1,2,3])
    
- #### *  Boolean types
+ ### *  Boolean types
    ##### - boolean(eg: True or False)
    
- #### *  Binary types
+ ### *  Binary types
    ##### - bytes: Immutable sequence of bytes.
    ##### – bytearray: Mutable sequence of bytes.
    ##### – memoryview: Memory view object.
 
- #### *  None types
+ ### *  None types
    ##### - NoneType(eg:none)
    
 ## Operators in python
-  #### Arithmetic operators
+  ### * Arithmetic operators
    ##### - Addition(+)
    ##### - multiplication(*)
    ##### - subtraction(-)
@@ -39,7 +39,7 @@ Data types define the kind of data that variables can hold in Python.
    ##### - floor division(//)
    ##### - modulus(%)
    
-  #### Comparison(relational) operators : Output is True or False
+  ### * Comparison(relational) operators : Output is True or False
    ##### - Equal to(==)
    ##### - Not equal to(!=)
    ##### - Greaterthan(>)
@@ -47,19 +47,19 @@ Data types define the kind of data that variables can hold in Python.
    ##### - Greaterthan or equal to(>=)
    ##### - Lessthan or equal to(<=)
    
-  #### Logocal operators (Output is True or False)
+  ### * Logocal operators (Output is True or False)
    ##### - AND
    ##### - OR
    ##### - NOT
    
-  #### Assignment operators
+  ### * Assignment operators
    ##### - Assign(=) eg: x+=3 ie) x=x+3
    ##### - Add and assign(+=)
    ##### - Subtract and assign(-=)
    ##### - Multiply and assign(*=)
    ##### - Divide and assign(/=)
    
-  #### Bitwise operators(Operate on binary numbers)
+  ### * Bitwise operators(Operate on binary numbers)
    ##### - AND(&)
    ##### - OR(|)
    ##### - XOR(^)
@@ -67,15 +67,15 @@ Data types define the kind of data that variables can hold in Python.
    ##### - Left shift(<<)
    ##### _ Right shift(>>)
    
-  #### Membership operators(output is True or False)
+  ### * Membership operators(output is True or False)
    ##### - IN
    ##### - NOT IN
    
-  #### Identity operators
+  ### * Identity operators
    ##### - IS 
    ##### - IS NOT
    
-  #### Special operators
+  ### * Special operators
    ##### - Lambda
  ## Types of conditional statements
  
