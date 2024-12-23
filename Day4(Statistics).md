@@ -14,4 +14,19 @@
       #### Odd case: median = middle value
       #### Even case: median = average of two middle values
   - mode
-  - 
+      #### : The most frequently occurring value in the dataset.(eg: 2,3,3,4,3 mode is 3)    
+## DIspersion
+   Describe the spread or variability of data around the central value.
+### Key measures
+   - Range
+        #### Range = Maximum Value − Minimum Value
+   - Variance
+        #### Variance =∑( xi−Mean)^2/n
+   - Standard Deviation (SD)
+        #### SD= √ Variance
+   - Interquartile Range (IQR)
+        #### IQR = Q3 − Q1 [Q1 = First quartile (25th percentile), Q3 = Third quartile (75th percentile)]
+## Correlation coefficient
+  * positive correlation
+  * Negative correlaton
+  * Zero correlation    
